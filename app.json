@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "mirantes-app-b2c",
+    "slug": "mirantes-app-b2c",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
